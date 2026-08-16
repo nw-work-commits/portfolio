@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 三國志 逆天録 | [遊ぶ](https://nw-work-commits.github.io/gyakutenroku/) / [コード](https://github.com/nw-work-commits/gyakutenroku) |
+| 逆天録 | [遊ぶ](https://nw-work-commits.github.io/gyakutenroku/) / [コード](https://github.com/nw-work-commits/gyakutenroku) |
 | TETLIS | [遊ぶ](https://nw-work-commits.github.io/tetlis/) / [コード](https://github.com/nw-work-commits/tetlis) |
 | SHUNT | [遊ぶ](https://nw-work-commits.github.io/shunt/) / [コード](https://github.com/nw-work-commits/shunt) |
 
